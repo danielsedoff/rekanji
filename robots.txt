@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow: /51603904
+Disallow: /adminer*
+Disallow: /backup*
+Disallow: /20cms
+Disallow: /disallowed

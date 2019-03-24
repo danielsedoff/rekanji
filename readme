@@ -1,0 +1,10 @@
+rekanji
+
+rekanji is a site for Japanese language learners. You see a random list of kanji. Do you remember this character? Check yourself by tapping it. Register to access all kanji. There are no ads or spam here.
+
+This site is written in PHP and Javascript. It uses php mail sending routines to facilitate email registration.
+
+Before programming this site I spent quite a while compiling one-word dictionaries for Japanese characters both in Russian and in English.
+
+Special thanks to Jim Breen for his EDICT!
+
